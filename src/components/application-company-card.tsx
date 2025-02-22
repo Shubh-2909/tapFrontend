@@ -36,7 +36,7 @@ const ApplicationCompanyCard = ({
           </div>
           <div className="flex items-center justify-center gap-[6px]">
             <MdOutlineBusinessCenter className="h-[16px] w-[16px] text-[#212121]" />
-            <p className="text-[#3D3D3D] font-[400] text-[13px] leading-[20px]">
+            <p className="text-[#3D3D3D]  font-[400] text-[13px] leading-[20px]">
               Full-Time
             </p>
           </div>
